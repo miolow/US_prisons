@@ -19,7 +19,7 @@ The following libraries and tools were used:
 - Google Maps API
 
 ## Visualization
-![Map of US Federal and Private Prisons](./prison.png)
+![Map of US Federal and Private Prisons](./prisons.png)
 
 ## Data Sources
 - [Core Civic (private prison management)](https://www.corecivic.com/facilities)
