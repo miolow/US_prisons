@@ -1,1 +1,16 @@
-*.csv
+prison_data.json
+tl_2024_us_state.cpg
+tl_2024_us_state.dbf
+tl_2024_us_state.prj
+tl_2024_us_state.shp
+tl_2024_us_state.shp.ea.iso.xml
+tl_2024_us_state.shp.iso.xml
+tl_2024_us_state.shx
+usprisons_df.csv
+stateprisons_df.csv
+stateprison_names.csv
+privateprisons_df.csv
+govprisons_df.csv
+geo_df.csv
+corecivic_df.csv
+allprisons_coordinates.csv

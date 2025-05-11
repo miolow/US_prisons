@@ -1,0 +1,891 @@
+,State,stateshortname,PrisonName,stateprison,longitude,latitude
+0,Alabama,AL,Bibb Correctional Facility,1,-87.1627807,32.9207544
+1,Alabama,AL,Bullock Correctional Facility,1,-85.6739273,32.1471443
+2,Alabama,AL,William E. Donaldson Correctional Facility,1,-87.1847963,33.51405370000001
+3,Alabama,AL,Easterling Correctional Facility,1,-85.58496579999999,31.6908023
+4,Alabama,AL,Elmore Correctional Facility,1,-86.32133569999999,32.5744376
+5,Alabama,AL,Fountain Correctional Facility,1,-87.4645704,31.1568953
+6,Alabama,AL,Hamilton Aged & Infirmed,1,-87.98864379999999,34.1423235
+7,Alabama,AL,Holman Correctional Facility,1,-87.45121429999999,31.1352453
+8,Alabama,AL,St. Clair Correctional Facility,1,-86.38565059999999,33.7469215
+9,Alabama,AL,Staton Correctional Facility,1,-86.3331571,32.57716550000001
+10,Alabama,AL,Julia Tutwiler Prison for Women,1,-86.1940048,32.5640382
+11,Alabama,AL,Kilby Correctional Facility,1,-86.10174370000001,32.3879038
+12,Alabama,AL,Limestone Correctional Facility,1,-86.8059248,34.811017
+13,Alabama,AL,Ventress Correctional Facility,1,-85.4928783,31.8889518
+14,Alaska,AK,Anchorage Correctional Complex,1,-149.8567296,61.2186086
+15,Alaska,AK,Anchorage Correctional Complex East,1,-149.8567296,61.2186086
+16,Alaska,AK,Anchorage Correctional Complex West,1,-149.8567296,61.2186086
+17,Alaska,AK,Anvil Mountain Correctional Center,1,-165.4125693,64.5372083
+18,Alaska,AK,Fairbanks Correctional Center,1,-147.7591515,64.8333367
+19,Alaska,AK,Goose Creek Correctional Center,1,-150.0079986,61.35979260000001
+20,Alaska,AK,Hiland Mountain Correctional Center,1,-149.580061,61.30199500000001
+21,Alaska,AK,Ketchikan Correctional Center,1,-131.6499571,55.3481991
+22,Alaska,AK,Lemon Creek Correctional Center,1,-134.4839782,58.3623962
+23,Alaska,AK,Mat-Su Pretrial Facility,1,-149.1094859,61.6023138
+24,Alaska,AK,Palmer Medium and Minimum Correctional Centers,1,-154.4930619,63.588753
+25,Alaska,AK,Spring Creek Correctional Center,1,-149.3380741,60.0939166
+26,Alaska,AK,Wildwood Correctional Center,1,-151.3000522,60.584234
+27,Alaska,AK,Wildwood Pretrial Facility,1,-151.3000461,60.58395890000001
+28,Alaska,AK,Yukon-Kuskokwim Correctional Center,1,-161.7866538,60.7860621
+29,Alaska,AK,Point MacKenzie Correctional Farm,1,-150.0924149,61.4186
+30,Arizona,AZ,Arizona State Prison Complex – Douglas ,1,-109.6000765,31.4455211
+31,Arizona,AZ,Arizona State Prison Complex – Eyman ,1,-111.3305854,33.0369974
+32,Arizona,AZ,Arizona State Prison Complex – Florence ,1,-111.373139,33.0285822
+33,Arizona,AZ,Arizona State Prison Complex – Lewis ,1,-112.6557775,33.2009209
+34,Arizona,AZ,Arizona State Prison Complex – Perryville,1,-112.4422426,33.4710105
+35,Arizona,AZ,Arizona State Prison Complex – Phoenix ,1,-112.0237862,33.4523949
+36,Arizona,AZ,Arizona State Prison Complex – Safford,1,-109.5661589,32.8290654
+37,Arizona,AZ,Arizona State Prison Complex – Tucson,1,-110.8593386,32.0678392
+38,Arizona,AZ,Arizona State Prison Complex – Winslow ,1,-110.718345,34.9846405
+39,Arizona,AZ,Arizona State Prison Complex – Yuma ,1,-114.6424863,32.4863849
+40,Arkansas,AR,Barbara Ester Unit,1,-92.0830331,34.2220923
+41,Arkansas,AR,Benton Unit ,1,-92.58537799999999,34.5693083
+42,Arkansas,AR,Cummins Unit,1,-91.57901439999999,34.0639889
+43,Arkansas,AR,Delta Regional Unit,1,-91.4149863,33.5189554
+44,Arkansas,AR,East Arkansas Regional Unit ,1,-90.60000610000002,34.8491859
+45,Arkansas,AR,Grimes Unit,1,-91.18799109999999,35.6260082
+46,Arkansas,AR,J. Aaron Hawkins Sr. Center,1,-91.51097159999999,36.1497914
+47,Arkansas,AR,Maximum Security Unit,1,-91.9153589,34.4545849
+48,Arkansas,AR,McPherson Unit,1,-91.1936772,35.6256219
+49,Arkansas,AR,Mississippi County Work Release Center,1,-89.9642811,35.7783972
+50,Arkansas,AR,North Central Unit ,1,-92.1505389,36.1632568
+51,Arkansas,AR,Northwest Arkansas Work Release Center,1,-94.1356938,36.1749452
+52,Arkansas,AR,Ouachita River Unit,1,-92.8428947,34.3448845
+53,Arkansas,AR,Pine Bluff Unit ,1,-92.08143919999999,34.2209507
+54,Arkansas,AR,Randall L. Williams Correctional Center,1,-92.0776894,34.2218319
+55,Arkansas,AR,Texarkana Regional Correction Center,1,-94.0413063,33.4263617
+56,Arkansas,AR,Tucker Unit,1,-91.9099312,34.439058
+57,Arkansas,AR,Willis H. Sargent Training Academy,1,-91.8318334,35.20105
+58,Arkansas,AR,Varner Unit,1,-91.6082034,34.0425076
+59,Arkansas,AR,Wrightsville Unit,1,-92.2194768,34.6167733
+60,California,CA,Avenal State Prison,1,-120.1233101,35.9743318
+61,California,CA,California City Correctional Facility,1,-117.8587484,35.1517676
+62,California,CA,California Correctional Institution,1,-118.5694868,35.1133011
+63,California,CA,California Health Care Facility,1,-121.1864019,37.8972065
+64,California,CA,California Institution for Men,1,-117.6826422,33.981973
+65,California,CA,California Institution for Women,1,-117.6348484,33.9493264
+66,California,CA,California Medical Facility,1,-121.9769425,38.32927790000001
+67,California,CA,California Men's Colony,1,-120.6944703,35.3253675
+68,California,CA,California Rehabilitation Center,1,-117.5715198,33.9308802
+69,California,CA,"California State Prison, Centinela",1,-115.7888117,32.8204948
+70,California,CA,"California State Prison, Corcoran",1,-119.5508573,36.0605733
+71,California,CA,"California State Prison, Los Angeles County",1,-118.227628,34.696373
+72,California,CA,"California State Prison, Sacramento",1,-121.1573499,38.6916076
+73,California,CA,"California State Prison, Solano",1,-121.9749219,38.3208192
+74,California,CA,"California Substance Abuse Treatment Facility and State Prison, Corcoran",1,-119.5604015,36.098007
+75,California,CA,Calipatria State Prison,1,-115.4847385,33.1630656
+76,California,CA,Central California Women's Facility,1,-120.1498291,37.0898065
+77,California,CA,Chuckawalla Valley State Prison,1,-114.9088546,33.5628161
+78,California,CA,Correctional Training Facility,1,-121.3826401,36.470807
+79,California,CA,Folsom State Prison,1,-121.1572053,38.6913497
+80,California,CA,High Desert State Prison,1,-120.5124802,40.4106737
+81,California,CA,Ironwood State Prison,1,-114.9268671,33.5606872
+82,California,CA,Kern Valley State Prison,1,-119.3207594,35.7660403
+83,California,CA,Mule Creek State Prison,1,-120.9537285,38.37063089999999
+84,California,CA,North Kern State Prison,1,-119.3096243,35.78272949999999
+85,California,CA,Pelican Bay State Prison,1,-124.1503259,41.85374789999999
+86,California,CA,Pleasant Valley State Prison,1,-120.2491987,36.1296774
+87,California,CA,Richard J. Donovan Correctional Facility,1,-116.9337257,32.5847064
+88,California,CA,Salinas Valley State Prison,1,-121.3756429,36.4811696
+89,California,CA,San Quentin State Prison,1,-122.4892327,37.9387136
+90,California,CA,Sierra Conservation Center,1,-120.5380359,37.8934741
+91,California,CA,Valley State Prison,1,-120.1531236,37.1011998
+92,California,CA,Wasco State Prison,1,-119.4072212,35.593903
+93,Colorado,CO,Arkansas Valley Correctional Facility ,1,-103.8404542,38.1892477
+94,Colorado,CO,Arrowhead Correctional Center,1,-105.1561063,38.4348311
+95,Colorado,CO,Buena Vista Correctional Facility ,1,-106.117628,38.82200690000001
+96,Colorado,CO,Centennial Correctional Facility,1,-105.1524658,38.4375618
+97,Colorado,CO,Colorado Correctional Center ,1,-106.1086379,37.7530563
+98,Colorado,CO,Colorado State Penitentiary,1,-105.1579266,38.4404178
+99,Colorado,CO,Colorado Territorial Correctional Facility ,1,-105.2494244,38.4373058
+100,Colorado,CO,Delta Correctional Center,1,-108.0689582,38.7422062
+101,Colorado,CO,Denver Reception & Diagnostic Center,1,-104.990251,39.7392358
+102,Colorado,CO,Denver Women's Correctional Facility ,1,-104.8628834,39.7651016
+103,Colorado,CO,Four Mile Correctional Center ,1,-106.1086379,37.7530563
+104,Colorado,CO,Fremont Correctional Facility,1,-105.160995,38.4227307
+105,Colorado,CO,LaVista Correctional Facility ,1,-104.6297228,38.2849302
+106,Colorado,CO,Limon Correctional Facility,1,-103.6937878,39.2165582
+107,Colorado,CO,Rifle Correctional Center ,1,-107.7831198,39.5347023
+108,Colorado,CO,San Carlos Correctional Facility ,1,-104.6315424,38.2799147
+109,Colorado,CO,Skyline Correctional Center,1,-105.7820674,39.5500507
+110,Colorado,CO,Sterling Correctional Facility ,1,-103.1622869,40.6113752
+111,Colorado,CO,Trinidad Correctional Facility,1,-104.2868913,37.3003414
+112,Connecticut,CT,Bridgeport Correctional Center ,1,-73.20105819999999,41.19050499999999
+113,Connecticut,CT,Brooklyn Correctional Institution,1,-71.95420349999999,41.7842438
+114,Connecticut,CT,Cheshire Correctional Institution,1,-72.9000526,41.5214745
+115,Connecticut,CT,Corrigan-Radgowski Correctional Center ,1,-72.1116828,41.4531688
+116,Connecticut,CT,Garner Correctional Institution,1,-73.2721138,41.4001595
+117,Connecticut,CT,Hartford Correctional Center ,1,-72.6615415,41.793534
+118,Connecticut,CT,MacDougall-Walker Correctional Institution,1,-72.63769529999999,41.9500617
+119,Connecticut,CT,Manson Youth Institution ,1,-72.8995496,41.5288489
+120,Connecticut,CT,New Haven Correctional Center ,1,-72.9398592,41.3176058
+121,Connecticut,CT,Osborn Correctional Institution ,1,-72.4971879,42.0166063
+122,Connecticut,CT,Robinson Correctional Institution ,1,-72.5155915,42.015646
+123,Connecticut,CT,Willard-Cybulski Correctional Institution,1,-72.506421,42.0232992
+124,Connecticut,CT,York Correctional Institution,1,-72.2374802,41.3228139
+125,Delaware,DE,Delores J. Baylor Women's Correctional Institution,1,-75.581426,39.7033341
+126,Delaware,DE,Howard R. Young Correctional Institution ,1,-75.5297229,39.7413509
+127,Delaware,DE,James T. Vaughn Correctional Center ,1,-75.5996353,39.3330245
+128,Delaware,DE,Sussex Correctional Institution ,1,-75.3702148,38.6598301
+129,Florida,FL,"Apalachee Correctional Institution, East Unit ",1,-84.88974879999999,30.710793
+130,Florida,FL,"Apalachee Correctional Institution, West Unit",1,-84.88974879999999,30.710793
+131,Florida,FL,Avon Park Correctional Institution ,1,-81.3597503,27.6621387
+132,Florida,FL,Baker Correctional Institution ,1,-82.37440389999999,30.2144847
+133,Florida,FL,Calhoun Correctional Institution ,1,-85.06478299999999,30.408688
+134,Florida,FL,Central Florida Reception Center ,1,-81.15413660000002,28.4633896
+135,Florida,FL,"Central Florida Reception Center, East Unit",1,-81.15413660000002,28.4633896
+136,Florida,FL,"Central Florida Reception Center, South Unit",1,-81.15413660000002,28.4633896
+137,Florida,FL,Century Correctional Institution ,1,-87.29151639999999,30.9566346
+138,Florida,FL,Charlotte Correctional Institution,1,-81.9034428,26.8045727
+139,Florida,FL,Columbia Correctional Institution,1,-82.5027676,30.193184
+140,Florida,FL,Columbia Correctional Institution Annex ,1,-82.5027676,30.193184
+141,Florida,FL,Cross City Correctional Institution,1,-83.0987298,29.6346041
+142,Florida,FL,Cross City East Unit,1,-83.0867971,29.638087
+143,Florida,FL,Dade Correctional Institution ,1,-80.49993909999999,25.415396
+144,Florida,FL,Desoto Annex ,1,-81.8435678,27.2118463
+145,Florida,FL,Everglades Correctional Institution,1,-80.4919468,25.7497243
+146,Florida,FL,Florida State Prison ,1,-82.18270369999999,30.05801109999999
+147,Florida,FL,"Florida State Prison, West Unit ",1,-81.5157535,27.6648274
+148,Florida,FL,Florida Women's Reception Center,1,-82.1883848,29.3099196
+149,Florida,FL,Franklin Correctional Institution,1,-84.6458688,29.8798973
+150,Florida,FL,Gulf Correctional Institution,1,-85.2638924,30.1742915
+151,Florida,FL,Gulf Correctional Institution Annex,1,-85.2638924,30.1742915
+152,Florida,FL,Hamilton Correctional Institution,1,-82.9631939,30.5046671
+153,Florida,FL,Hamilton Correctional Institution Annex ,1,-82.9705278,30.50377529999999
+154,Florida,FL,Hardee Correctional Institution,1,-82.0117123,27.5905601
+155,Florida,FL,Hernando Correctional Institution,1,-82.45414629999999,28.4830854
+156,Florida,FL,Holmes Correctional Institution ,1,-85.66998819999999,30.7586889
+157,Florida,FL,Homestead Correctional Institution,1,-80.4984553,25.4138124
+158,Florida,FL,Jackson Correctional Institution ,1,-85.16786979999999,30.9688028
+159,Florida,FL,Jefferson Correctional Institution,1,-83.79830869999999,30.51004
+160,Florida,FL,Lake Correctional Institution ,1,-81.7650309,28.6229661
+161,Florida,FL,Lancaster Correctional Institution ,1,-82.8631645,29.6073295
+162,Florida,FL,Lawtey Correctional Institution ,1,-82.07135439999999,30.0327796
+163,Florida,FL,Liberty Correctional Institution,1,-84.86501539999999,30.4652665
+164,Florida,FL,Lowell Correctional Institution ,1,-82.19910039999999,29.3139117
+165,Florida,FL,Lowell Annex,1,-82.19910039999999,29.3139117
+166,Florida,FL,Madison Correctional Institution ,1,-83.4211536,30.4428717
+167,Florida,FL,Marion Correctional Institution ,1,-82.1768417,29.3060321
+168,Florida,FL,Martin Correctional Institution,1,-80.4826583,27.1975803
+169,Florida,FL,Mayo Correctional Institution Annex ,1,-83.30515249999999,30.1327563
+170,Florida,FL,Northwest Florida Reception Center,1,-81.5157535,27.6648274
+171,Florida,FL,Northwest Florida Reception Center Annex,1,-85.6568367,30.5176927
+172,Florida,FL,Okaloosa Correctional Institution ,1,-86.5240944,30.6946544
+173,Florida,FL,Okeechobee Correctional Institution,1,-80.7841,27.3993504
+174,Florida,FL,Polk Correctional Institution ,1,-81.7858217,28.1915708
+175,Florida,FL,Putnam Correctional Institution,1,-81.5881271,29.64515299999999
+176,Florida,FL,Quincy Annex,1,-84.59105799999999,30.5880468
+177,Florida,FL,Reception and Medical Center ,1,-82.3564904,29.9885584
+178,Florida,FL,"Reception and Medical Center, West Unit",1,-82.36789,29.9938912
+179,Florida,FL,Santa Rosa Correctional Institution,1,-86.9684485,30.6452916
+180,Florida,FL,Santa Rosa Correctional Institution Annex,1,-86.9684485,30.6452916
+181,Florida,FL,South Florida Reception Center ,1,-80.4255427,25.8073845
+182,Florida,FL,"South Florida Reception Center, South Unit ",1,-80.4229199,25.7999066
+183,Florida,FL,Sumter Correctional Institution,1,-82.2045704,28.6174575
+184,Florida,FL,Suwannee Correctional Institution ,1,-82.8688796,30.2380869
+185,Florida,FL,Suwannee Correctional Institution Annex ,1,-82.8673535,30.2383753
+186,Florida,FL,Taylor Correctional Institution,1,-83.7150949,30.0401786
+187,Florida,FL,Taylor Correctional Institution Annex,1,-83.7150949,30.0401786
+188,Florida,FL,Tomoka Correctional Institution,1,-81.15687000000001,29.1514046
+189,Florida,FL,Union Correctional Institution ,1,-82.192696,30.0696358
+190,Florida,FL,Wakulla Correctional Institution,1,-84.1744418,30.261194
+191,Florida,FL,Wakulla Correctional Institution Annex ,1,-84.1744418,30.261194
+192,Florida,FL,Walton Correctional Institution ,1,-86.1027907,30.7781095
+193,Florida,FL,Zephyrhills Correctional Institution,1,-82.19705669999999,28.1978703
+194,Georgia,GA,Arrendale State Prison,1,-83.5934012,34.4506986
+195,Georgia,GA,Augusta State Medical Prison,1,-82.187621,33.4319375
+196,Georgia,GA,Baldwin State Prison,1,-83.2210446,33.0253455
+197,Georgia,GA,Burruss Correctional Training Center,1,-83.975264,33.0567265
+198,Georgia,GA,Calhoun State Prison,1,-84.6166736,31.539756
+199,Georgia,GA,Central State Prison,1,-83.7513307,32.7781645
+200,Georgia,GA,Coastal State Prison,1,-81.1873482,32.1380507
+201,Georgia,GA,Dodge State Prison,1,-83.1675841,32.3934551
+202,Georgia,GA,Dooly State Prison,1,-83.7167539,32.2808042
+203,Georgia,GA,Emanuel Women's Facility,1,-82.3567059,32.6126699
+204,Georgia,GA,Georgia Diagnostic and Classification State Prison,1,-84.0614384,33.2192134
+205,Georgia,GA,Hancock State Prison,1,-82.9508616,33.2457447
+206,Georgia,GA,Hays State Prison,1,-85.3117347,34.50804189999999
+207,Georgia,GA,Helms Facility,1,-84.3381958,33.6887794
+208,Georgia,GA,Jimmy Autry State Prison,1,-84.14603009999999,31.1889076
+209,Georgia,GA,Johnson State Prison,1,-82.70509760000002,32.7420715
+210,Georgia,GA,Lee State Prison,1,-84.1936111,31.7635518
+211,Georgia,GA,Long Unit,1,-81.8224362,31.7755541
+212,Georgia,GA,Macon State Prison,1,-84.0913509,32.2589934
+213,Georgia,GA,Montgomery State Prison,1,-82.5662416,32.1619422
+214,Georgia,GA,Phillips State Prison,1,-83.9107214,34.0940242
+215,Georgia,GA,Pulaski State Prison,1,-83.45724179999999,32.3120472
+216,Georgia,GA,Rogers State Prison,1,-82.1644354,32.0036263
+217,Georgia,GA,Rutledge State Prison,1,-84.8663699,32.4959948
+218,Georgia,GA,Smith State Prison,1,-81.915783,31.9734076
+219,Georgia,GA,S.M.U. Special Management Unit at Georgia Diagnostic and Classification State Prison,1,-82.90712300000001,32.1574351
+220,Georgia,GA,Telfair State Prison,1,-82.9088732,32.0883644
+221,Georgia,GA,Valdosta State Prison & Annex,1,-83.3451042,30.8583537
+222,Georgia,GA,Walker State Prison,1,-85.261597,34.8095766
+223,Georgia,GA,Ware State Prison,1,-82.3953247,31.2586097
+224,Georgia,GA,Washington State Prison,1,-82.5953018,32.9881011
+225,Georgia,GA,Whitworth Women's Facility,1,-82.9383007,34.3120882
+226,Georgia,GA,Wilcox State Prison,1,-83.30078189999999,31.9861377
+227,Hawaii,HI,Halawa Correctional Facility – Aiea,1,-157.8992731,21.3735655
+228,Hawaii,HI,Hawaii Youth Correctional Facility – Kailua,1,-157.751885,21.3741565
+229,Hawaii,HI,Kulani Correctional Facility – Hilo ,1,-155.3013889,19.5496425
+230,Hawaii,HI,Waiawa Correctional Facility – Waipahu ,1,-157.961376,21.4450234
+231,Hawaii,HI,Women's Community Correctional Center – Kailua,1,-157.7486283,21.3774919
+232,Idaho,ID,Mountain View Transformation Center ,1,-114.7420408,44.0682019
+233,Idaho,ID,Idaho State Correctional Center,1,-116.2367628,43.4701947
+234,Idaho,ID,Idaho Maximum Security Institution,1,-116.2239147,43.4790447
+235,Idaho,ID,Idaho State Correctional Institution,1,-116.2203273,43.4775711
+236,Idaho,ID,South Boise Women's Correctional Center,1,-116.229973,43.481412
+237,Idaho,ID,South Idaho Correctional Institution ,1,-116.2117081,43.4759041
+238,Idaho,ID,North Idaho Correctional Institution ,1,-117.0018462,46.4152745
+239,Idaho,ID,Idaho Correctional Institution - Orofino ,1,-116.2606295,46.4916131
+240,Idaho,ID,Pocatello Women's Correctional Cent ,1,-112.45025,42.8430134
+241,Idaho,ID,St. Anthony Work Camp ,1,-111.6821847,43.96630080000001
+242,Illinois,IL,Menard Correctional Center,1,-89.8430255,37.9116378
+243,Illinois,IL,Pontiac Correctional Center,1,-88.6359887,40.87106790000001
+244,Illinois,IL,Stateville Correctional Center,1,-88.0897291,41.5788468
+245,Illinois,IL,Northern Reception and Classification,1,-89.3985283,40.6331249
+246,Illinois,IL,Dixon Correctional Center,1,-89.48252169999999,41.8735826
+247,Illinois,IL,Hill Correctional Center,1,-90.4072168,40.9396688
+248,Illinois,IL,Lawrence Correctional Center,1,-87.9059082,38.7284952
+249,Illinois,IL,Pinckneyville Correctional Center,1,-89.32758729999999,38.0851943
+250,Illinois,IL,Western Illinois Correctional Center,1,-90.7509645,39.9626199
+251,Illinois,IL,Big Muddy River Correctional Center,1,-88.90695869999999,38.1307352
+252,Illinois,IL,Danville Correctional Center,1,-87.5361797,40.1323502
+253,Illinois,IL,Illinois River Correctional Center,1,-90.08155049999999,40.5597915
+254,Illinois,IL,Menard Medium Security Unit,1,-89.83325239999999,37.9184381
+255,Illinois,IL,Pontiac Medium Security Unit,1,-88.62978389999999,40.8808666
+256,Illinois,IL,Shawnee Correctional Center,1,-88.7769392,37.3996734
+257,Illinois,IL,Centralia Correctional Center,1,-89.1921734,38.5536852
+258,Illinois,IL,Decatur Correctional Center,1,-88.9270725,39.8936452
+259,Illinois,IL,Graham Correctional Center,1,-89.4739925,39.1274808
+260,Illinois,IL,Lincoln Correctional Center,1,-89.38986059999999,40.1166885
+261,Illinois,IL,Logan Correctional Center,1,-89.3911526,40.1135064
+262,Illinois,IL,Sheridan Correctional Center,1,-88.6808953,41.5178018
+263,Illinois,IL,Jacksonville Correctional Center,1,-90.17738190000001,39.7241376
+264,Illinois,IL,Robinson Correctional Center,1,-87.69888430000002,39.0212454
+265,Illinois,IL,Taylorville Correctional Center,1,-89.2280371,39.5139112
+266,Illinois,IL,East Moline Correctional Center,1,-90.4195075,41.5330971
+267,Illinois,IL,Southwestern Illinois Correctional Center,1,-87.86479609999999,38.8742719
+268,Illinois,IL,Vandalia Correctional Center,1,-89.096192,39.0094889
+269,Illinois,IL,Vienna Correctional Center,1,-88.7718695,37.4048766
+270,Illinois,IL,Clayton Work Camp,1,-90.9616645,40.0280814
+271,Illinois,IL,Dixon Springs Impact Incarceration Program,1,-88.6637631,37.3811089
+272,Illinois,IL,DuQuoin Impact Incarceration Program,1,-89.2361935,38.0114393
+273,Illinois,IL,East Moline Work Camps 1 and 2,1,-90.4442979,41.5008673
+274,Illinois,IL,Greene County Work Camp,1,-90.3863883,39.46178039999999
+275,Illinois,IL,Pittsfield Work Camp,1,-90.84682459999999,39.5976142
+276,Illinois,IL,Southwestern Illinois Work Camp,1,-87.86479609999999,38.8742719
+277,Illinois,IL,Stateville Minimum Security Unit,1,-88.0897291,41.5788468
+278,Illinois,IL,Crossroads Adult Transition Center,1,-89.3985283,40.6331249
+279,Illinois,IL,Fox Valley Adult Transition Center,1,-88.32032219999999,41.7879637
+280,Illinois,IL,North Lawndale Adult Transition Center,1,-87.69738939999999,41.8681715
+281,Illinois,IL,Peoria Adult Transition Center,1,-89.5933098,40.6948965
+282,Indiana,IN,Branchville Correctional Facility,1,-86.6015455,38.1524008
+283,Indiana,IN,Chain O'Lakes Correctional Facility - Albion,1,-85.35312119999999,41.337457
+284,Indiana,IN,Correctional Industrial Facility - Pendleton,1,-85.7709304,39.974934
+285,Indiana,IN,Edinburgh Correctional Facility - Edinburgh,1,-86.0404265,39.3535469
+286,Indiana,IN,Heritage Trail Correctional Facility - Plainfield,1,-86.4054668,39.6920964
+287,Indiana,IN,Indiana State Prison - Michigan City,1,-86.915343,41.7034274
+288,Indiana,IN,Indiana Women's Prison - Indianapolis,1,-86.2902414,39.8009259
+289,Indiana,IN,Indianapolis Re-entry Educational Facility - Indianapolis,1,-86.1275681,39.772008
+290,Indiana,IN,Madison Correctional Facility - Madison,1,-85.4041,38.7470262
+291,Indiana,IN,Miami Correctional Facility - Bunker Hill,1,-86.1328719,40.6443646
+292,Indiana,IN,New Castle Correctional Facility  - New Castle,1,-85.37029319999999,39.9650605
+293,Indiana,IN,Pendleton Correctional Facility - Pendleton,1,-85.7587976,39.9821155
+294,Indiana,IN,Plainfield Correctional Facility - Plainfield,1,-86.41674239999999,39.691106
+295,Indiana,IN,Putnamville Correctional Facility - Greencastle,1,-86.88592609999999,39.5669408
+296,Indiana,IN,Reception Diagnostic Center - Plainfield,1,-86.4163094,39.68937529999999
+297,Indiana,IN,Rockville Correctional Facility - Rockville,1,-87.25393,39.775835
+298,Indiana,IN,South Bend Community Re-entry Center - South Bend,1,-86.3111223,41.7221752
+299,Indiana,IN,Wabash Valley Correctional Facility - Carlisle,1,-87.40343519999999,38.9767758
+300,Indiana,IN,Westville Correctional Facility - Westville,1,-86.9136204,41.5264274
+301,Iowa,IA,Anamosa State Penitentiary - Anamosa,1,-91.291243,42.1113641
+302,Iowa,IA,Clarinda Correctional Facility - Clarinda,1,-95.0374514,40.7608562
+303,Iowa,IA,Fort Dodge Correctional Facility - Fort Dodge,1,-94.1938021,42.4844252
+304,Iowa,IA,Iowa Correctional Institution for Women - Mitchellville,1,-93.3681957,41.6633472
+305,Iowa,IA,Iowa Medical and Classification Center - Oakdale,1,-91.61029599999999,41.7135539
+306,Iowa,IA,Iowa State Penitentiary - Fort Madison,1,-91.3036346,40.6514511
+307,Iowa,IA,Mount Pleasant Correctional Facility - Mount Pleasant,1,-91.53586519999999,40.9560341
+308,Iowa,IA,Newton Correctional Facility - Newton,1,-93.0560531,41.6294784
+309,Iowa,IA,North Central Correctional Facility - Rockwell City,1,-94.6056148,42.3923276
+310,Kansas,KS,El Dorado Correctional Facility,1,-96.8161087,37.8043212
+311,Kansas,KS,Ellsworth Correctional Facility ,1,-98.2335348,38.7408233
+312,Kansas,KS,Hutchinson Correctional Facility,1,-97.91144899999999,38.0451807
+313,Kansas,KS,Kansas Juvenile Correctional Complex ,1,-95.6816491,39.0956739
+314,Kansas,KS,Lansing Correctional Facility,1,-94.89266479999999,39.249963
+315,Kansas,KS,Larned Correctional Mental Health Facility ,1,-99.09871299999999,38.18056929999999
+316,Kansas,KS,Norton Correctional Facility,1,-99.81682300000001,39.8445519
+317,Kansas,KS,Topeka Correctional Facility ,1,-95.62406899999999,39.04029939999999
+318,Kansas,KS,Winfield Correctional Facility,1,-96.9750416,37.26442309999999
+319,Kansas,KS,Wichita Work Release Facility,1,-97.333173,37.68194829999999
+320,Kentucky,KY,Bell County Forestry Camp,1,-83.8519637,36.6682254
+321,Kentucky,KY,Blackburn Correctional Complex,1,-84.53703639999999,38.1115274
+322,Kentucky,KY,Eastern Kentucky Correctional Complex,1,-83.2706704,37.9040366
+323,Kentucky,KY,Green River Correctional Complex,1,-87.1135139,37.3147399
+324,Kentucky,KY,Kentucky Correctional Institute for Women,1,-85.45789719999999,38.2840616
+325,Kentucky,KY,Kentucky State Penitentiary,1,-88.07641830000001,37.0479862
+326,Kentucky,KY,Kentucky State Reformatory,1,-85.4135967,38.4019183
+327,Kentucky,KY,Little Sandy Correctional Complex,1,-83.07784350000001,38.1346448
+328,Kentucky,KY,Luther Luckett Correctional Complex,1,-85.42551399999999,38.41236
+329,Kentucky,KY,Northpoint Training Center,1,-84.7454023,37.7089827
+330,Kentucky,KY,Roederer Correctional Complex,1,-85.4294032,38.4029997
+331,Kentucky,KY,Ross-Cash Center,1,-84.2700179,37.8393332
+332,Kentucky,KY,Southeast State Correctional Complex,1,-82.7169521,37.3396789
+333,Kentucky,KY,Western Kentucky Correctional Complex,1,-88.03968809999999,37.1383247
+334,Louisiana,LA,Allen Correctional Center,1,-92.7900801,30.5632093
+335,Louisiana,LA,Avoyelles Correctional Center ,1,-92.0271791,30.9741891
+336,Louisiana,LA,B. B. Rayburn Correctional Center,1,-89.81787870000001,30.921875
+337,Louisiana,LA,David Wade Correctional Center,1,-93.0193999,32.9056733
+338,Louisiana,LA,Dixon Correctional Institute,1,-91.20651889999999,30.8128306
+339,Louisiana,LA,Elayn Hunt Correctional Center,1,-91.0868759,30.2647933
+340,Louisiana,LA,Louisiana Correctional Institute for Women,1,-91.07242819999999,30.2603498
+341,Louisiana,LA,Louisiana State Penitentiary - Angola Prison,1,-91.5684067,30.9406391
+342,Maine,ME,Bolduc Correctional Facility ,1,-69.2180729,44.0676841
+343,Maine,ME,Mountain View Correctional Facility ,1,-69.092458,45.0922474
+344,Maine,ME,Maine Correctional Center ,1,-70.4140913,43.7268942
+345,Maine,ME,Southern Maine Reentry Center ,1,-70.4094836,43.7285695
+346,Maine,ME,Maine State Prison,1,-69.2299733,44.0617033
+347,Maryland,MD,Baltimore City Correctional Center,1,-76.606507,39.30030530000001
+348,Maryland,MD,Central Maryland Correctional Facility,1,-76.9566545,39.3723253
+349,Maryland,MD,Dorsey Run Correctional Facility,1,-76.77656549999999,39.1389289
+350,Maryland,MD,Eastern Correctional Institution,1,-75.703687,38.1562418
+351,Maryland,MD,Jessup Correctional Institution,1,-76.7798115,39.1449474
+352,Maryland,MD,Maryland Correctional Institution–Hagerstown,1,-77.7231317,39.5609454
+353,Maryland,MD,Maryland Correctional Institution–Jessup,1,-76.77300269999999,39.13401959999999
+354,Maryland,MD,Maryland Correctional Institution for Women,1,-76.775413,39.132672
+355,Maryland,MD,Maryland Correctional Transition Center,1,-76.64127119999999,39.0457549
+356,Maryland,MD,North Branch Correctional Institution,1,-78.8194603,39.6030313
+357,Maryland,MD,Patuxent Institution,1,-76.7803021,39.1640425
+358,Maryland,MD,Roxbury Correctional Institution,1,-77.71496669999999,39.5576338
+359,Maryland,MD,Western Correctional Institution,1,-78.8180316,39.6057723
+360,Maryland,MD,Baltimore Central Booking and Intake Center,1,-76.61045349999999,39.2991179
+361,Maryland,MD,Chesapeake Detention Facility,1,-76.6093736,39.2983454
+362,Maryland,MD,"Maryland Reception, Diagnostic, and Classification Center",1,-76.6068221,39.2991796
+363,Maryland,MD,Metropolitan Transition Center,1,-76.6082481,39.301048
+364,Massachusetts,MA,Boston Pre-Release Center,1,-71.10166720000001,42.2926066
+365,Massachusetts,MA,Bridgewater State Hospital,1,-70.9518823,41.94734589999999
+366,Massachusetts,MA,Lemuel Shattuck Hospital Correctional Unit,1,-71.1029198,42.3003994
+367,Massachusetts,MA,Massachusetts Alcohol and Substance Abuse Center at Plymouth,1,-70.7878293,41.9210834
+368,Massachusetts,MA,Massachusetts Correctional Institution - Framingham,1,-71.4086008,42.2672627
+369,Massachusetts,MA,Massachusetts Correctional Institution - Norfolk,1,-71.303754,42.118843
+370,Massachusetts,MA,Massachusetts Correctional Institution - Shirley,1,-71.64854319999999,42.526004
+371,Massachusetts,MA,Massachusetts Treatment Center,1,-70.9571495,41.9466822
+372,Massachusetts,MA,North Central Correctional Institution,1,-71.940303,42.578701
+373,Massachusetts,MA,Northeastern Correctional Center,1,-71.39809199999999,42.472193
+374,Massachusetts,MA,Old Colony Correctional Center,1,-70.958108,41.94950499999999
+375,Massachusetts,MA,Pondville Correctional Center,1,-71.2925813,42.1087932
+376,Massachusetts,MA,South Middlesex Correctional Center,1,-71.405962,42.2653445
+377,Massachusetts,MA,Souza-Baranowski Correctional Center,1,-71.6500077,42.5236744
+378,Michigan,MI,Alger Correctional Facility,1,-86.63615879999999,46.3789933
+379,Michigan,MI,Baraga Correctional Facility,1,-88.5082132,46.7648004
+380,Michigan,MI,Bellamy Creek Correctional Facility,1,-85.1055133,42.9796454
+381,Michigan,MI,Carson City Correctional Facility,1,-84.8701482,43.1623639
+382,Michigan,MI,Central Michigan Correctional Facility,1,-84.5940909,43.412197
+383,Michigan,MI,Charles Egeler Reception and Guidance Center,1,-84.3908143,42.30011630000001
+384,Michigan,MI,Chippewa Correctional Facility,1,-84.45077020000001,46.2592298
+385,Michigan,MI,Cooper Street Correctional Facility,1,-84.3981926,42.2948275
+386,Michigan,MI,Detroit Detention Center,1,-83.0455606,42.4239966
+387,Michigan,MI,Detroit Reentry Center,1,-83.0424533,42.32971819999999
+388,Michigan,MI,Earnest C. Brooks Correctional Facility,1,-86.1718724,43.2086999
+389,Michigan,MI,G. Robert Cotton Correctional Facility,1,-84.3875326,42.288355
+390,Michigan,MI,Gus Harrison Correctional Facility,1,-84.00614139999999,41.8883375
+391,Michigan,MI,Ionia Correctional Facility,1,-85.10104170000001,42.9837145
+392,Michigan,MI,Kinross Correctional Facility,1,-84.46884089999999,46.2625663
+393,Michigan,MI,Lakeland Correctional Facility,1,-84.99424499999999,41.9650151
+394,Michigan,MI,Macomb Correctional Facility,1,-82.7625857,42.7233962
+395,Michigan,MI,Marquette Branch Prison,1,-87.3826727,46.5113253
+396,Michigan,MI,Muskegon Correctional Facility,1,-86.18127799999999,43.2113763
+397,Michigan,MI,Newberry Correctional Facility,1,-85.5076344,46.32984829999999
+398,Michigan,MI,Oaks Correctional Facility,1,-86.2705732,44.2457304
+399,Michigan,MI,Parnall Correctional Facility,1,-84.3907664,42.29218789999999
+400,Michigan,MI,Richard A. Handlon Correctional Facility,1,-85.1053546,42.9823731
+401,Michigan,MI,Saginaw Correctional Facility,1,-84.10345699999999,43.5071074
+402,Michigan,MI,Special Alternative Incarceration Facility,1,-85.60236429999999,44.3148443
+403,Michigan,MI,St. Louis Correctional Facility,1,-84.58942979999999,43.416426
+404,Michigan,MI,Thumb Correctional Facility,1,-83.3500746,43.0344975
+405,Michigan,MI,Women's Huron Valley Correctional Facility,1,-83.6940059,42.1722571
+406,Michigan,MI,Woodland Center Correctional Facility,1,-83.7680106,42.439899
+407,Minnesota,MN,Faribault,1,-93.268827,44.2949636
+408,Minnesota,MN,Lino Lakes,1,-93.0888324,45.1602442
+409,Minnesota,MN,Moose Lake,1,-92.7666667,46.4513889
+410,Minnesota,MN,Oak Park Heights,1,-92.79298419999999,45.0313559
+411,Minnesota,MN,St. Cloud,1,-94.16324039999999,45.5579451
+412,Minnesota,MN,Stillwater,1,-92.80884429999999,45.056004
+413,Minnesota,MN,Red Wing Adults,1,-92.5369563,44.5660691
+414,Minnesota,MN,Rush City,1,-92.9654903,45.6855144
+415,Minnesota,MN,Willow River (CIP),1,-92.8413116,46.31827939999999
+416,Minnesota,MN,Shakopee,1,-93.5272861,44.7973962
+417,Minnesota,MN,Togo (CIP),1,-93.1560126,47.821318
+418,Mississippi,MS,Central Mississippi Correctional Facility (Rankin County),1,-90.0588154,32.2294611
+419,Mississippi,MS,Delta Correctional Facility,1,-90.2117442,33.4803268
+420,Mississippi,MS,Marshall County Correctional Facility,1,-89.43780699999999,34.7961607
+421,Mississippi,MS,"Mississippi State Penitentiary (Sunflower County, formerly known as Parchman Farm)",1,-90.4984509,33.9178383
+422,Mississippi,MS,South Mississippi Correctional Institution (Greene County),1,-88.60599169999999,31.1767874
+423,Mississippi,MS,Walnut Grove Correctional Facility,1,-89.44659,32.5828972
+424,Mississippi,MS,Bolivar County Correctional Facility,1,-90.8294002,33.8829962
+425,Mississippi,MS,Carroll-Montgomery County/Regional Correctional Facility,1,-89.62516459999999,33.5274427
+426,Mississippi,MS,George-Greene County/Regional Correctional Facility,1,-88.7108964,31.1646163
+427,Mississippi,MS,Holmes-Humphreys County/Regional Correctional Facility,1,-90.52578229999999,33.1677834
+428,Mississippi,MS,Issaquena County Correctional Facility,1,-91.04883000000001,32.9001617
+429,Mississippi,MS,Jefferson-Franklin County/Regional Correctional Facility,1,-90.86751339999999,31.4883928
+430,Mississippi,MS,Kemper-Neshoba County/Regional Correctional Facility,1,-89.1705998,32.8057157
+431,Mississippi,MS,Leake County Correctional Facility,1,-89.5233271,32.7333972
+432,Mississippi,MS,Marion-Walthall County/Regional Correctional Facility,1,-90.11206960000001,31.125165
+433,Mississippi,MS,Stone County Correctional Facility,1,-89.13475919999999,30.8356973
+434,Mississippi,MS,Winston-Choctaw County/Regional Correctional Facility,1,-89.0550561,33.1695121
+435,Missouri,MO,Algoa Correctional Center,1,-92.05238039999999,38.5525913
+436,Missouri,MO,Boonville Correctional Center,1,-92.7295772,38.97753609999999
+437,Missouri,MO,Central Missouri Correctional Center (Church Farm),1,-91.8318334,37.9642529
+438,Missouri,MO,Chillicothe Correctional Center,1,-93.5389465,39.8322505
+439,Missouri,MO,Cremer Therapeutic Community Center,1,-91.52876599999999,39.5080979
+440,Missouri,MO,Crossroads Correctional Center,1,-94.2229555,39.7638595
+441,Missouri,MO,"Eastern Reception, Diagnostic and Correctional Center",1,-90.5145979,37.9237447
+442,Missouri,MO,Farmington Correctional Center,1,-90.4371795,37.769001
+443,Missouri,MO,Fulton Reception and Diagnostic Center,1,-91.9236166,38.8451886
+444,Missouri,MO,Jefferson City Correctional Center,1,-92.0482574,38.549405
+445,Missouri,MO,Kansas City Reentry Center,1,-94.59761759999999,39.1067091
+446,Missouri,MO,Maryville Treatment Center,1,-94.8724706,40.3461017
+447,Missouri,MO,Missouri Eastern Correctional Center,1,-91.8318334,37.9642529
+448,Missouri,MO,Moberly Correctional Center,1,-92.43768,39.3632281
+449,Missouri,MO,Northeast Correctional Center,1,-91.22522230000001,39.3697058
+450,Missouri,MO,Ozark Correctional Center,1,-91.8318334,37.9642529
+451,Missouri,MO,Potosi Correctional Center,1,-90.73620969999999,37.9360578
+452,Missouri,MO,Renz Women's Prison,1,-91.8318334,37.9642529
+453,Missouri,MO,South Central Correctional Center,1,-91.87334969999999,37.502976
+454,Missouri,MO,Southeast Correctional Center,1,-91.8318334,37.9642529
+455,Missouri,MO,Tipton Correctional Center,1,-92.7789853,38.6681104
+456,Missouri,MO,Western Missouri Correctional Center,1,-91.8318334,37.9642529
+457,Missouri,MO,"Western Reception, Diagnostic and Correctional Center",1,-94.8112305,39.772861
+458,Missouri,MO,"Women's Eastern Reception, Diagnostic and Correctional Center",1,-91.4760652,39.3147513
+459,Montana,MT,"Montana State Prison (Unincorporated Powell County, near Deer Lodge)[2]",1,-112.8010516,46.3829532
+460,Montana,MT,Cascade County Regional Prison - Great Falls,1,-111.3007715,47.5052849
+461,Montana,MT,Crossroads Correctional Facility,1,-111.8934332,48.5030232
+462,Montana,MT,Dawson County Correctional Facility - Glendive,1,-104.685236,47.130532
+463,Montana,MT,Montana Women's Prison - Billings,1,-108.4956107,45.7749903
+464,Nebraska,NE,Community Corrections Center - Lincoln ,1,-96.7604003,40.7857229
+465,Nebraska,NE,Community Corrections Center - Omaha,1,-95.9005024,41.2835342
+466,Nebraska,NE,Lincoln Correctional Center,1,-96.7660451,40.7877391
+467,Nebraska,NE,Nebraska Correctional Center for Women,1,-97.6284276,40.8642894
+468,Nebraska,NE,Nebraska Correctional Youth Facility ,1,-95.9050626,41.2822536
+469,Nebraska,NE,Nebraska Diagnostic and Evaluation Center,1,-99.9018131,41.4925374
+470,Nebraska,NE,Nebraska State Penitentiary,1,-96.70396919999999,40.7695868
+471,Nebraska,NE,Omaha Correctional Center ,1,-95.8985489,41.2817944
+472,Nebraska,NE,Tecumseh State Correctional Institution,1,-96.18526829999999,40.4022927
+473,Nevada,NV,Casa Grande Transitional Housing,1,-115.1922749,36.0859836
+474,Nevada,NV,Ely State Prison,1,-114.9374091,39.3853842
+475,Nevada,NV,High Desert State Prison,1,-115.5845189,36.5152843
+476,Nevada,NV,Lovelock Correctional Center,1,-118.3861878,40.2227999
+477,Nevada,NV,Nevada State Prison,1,-119.7367675,39.1602809
+478,Nevada,NV,Northern Nevada Correctional Center and Stewart Conservation Camp,1,-119.7475176,39.1068499
+479,Nevada,NV,Northern Nevada Transitional Housing,1,-119.7886944,39.52706250000001
+480,Nevada,NV,Southern Desert Correctional Center,1,-115.5560704,36.5169964
+481,Nevada,NV,Southern Nevada Correctional Center,1,-116.419389,38.8026097
+482,Nevada,NV,Florence McClure Women's Correctional Center,1,-115.0767169,36.2573853
+483,Nevada,NV,Warm Springs Correctional Center,1,-119.7387542,39.1579163
+484,New Hampshire,NH,New Hampshire State Prison for Men,1,-71.5567186,43.2266784
+485,New Hampshire,NH,New Hampshire State Prison for Women,1,-71.53903389999999,43.0102068
+486,New Hampshire,NH,Northern New Hampshire Correctional Facility,1,-71.1449933,44.51258929999999
+487,New Hampshire,NH,Shea Farm Halfway House,1,-71.5517788,43.1801219
+488,New Jersey,NJ,New Jersey State Prison,1,-74.7563837,40.2072994
+489,New Jersey,NJ,East Jersey State Prison,1,-74.268198,40.5909172
+490,New Jersey,NJ,South Woods State Prison,1,-75.2101785,39.41303449999999
+491,New Jersey,NJ,Bayside State Prison,1,-74.9518552,39.243166
+492,New Jersey,NJ,Mid-State Correctional Facility,1,-74.5839951,39.9976367
+493,New Jersey,NJ,Edna Mahan Correctional Facility for Women,1,-74.9337422,40.6296315
+494,New Jersey,NJ,Northern State Prison,1,-74.1711528,40.7128975
+495,New Jersey,NJ,Adult Diagnostic and Treatment Center,1,-74.27377589999999,40.590042
+496,New Jersey,NJ,Garden State Youth Correctional Facility,1,-74.6764269,40.15953100000001
+497,New Mexico,NM,Northeast New Mexico Correctional Facility,1,-103.122949,36.4353279
+498,New Mexico,NM,Central New Mexico Correctional Facility,1,-106.764074,34.790496
+499,New Mexico,NM,Guadalupe County Correctional Facility,1,-104.7029404,34.9083019
+500,New Mexico,NM,Lea County Correctional Center[a],1,-103.2246818,32.7641665
+501,New Mexico,NM,Otero County Prison Facility,1,-106.278305,32.0785239
+502,New Mexico,NM,Penitentiary of New Mexico,1,-106.0601372,35.5620357
+503,New Mexico,NM,Roswell Correctional Center,1,-104.4255061,33.2415108
+504,New Mexico,NM,Southern New Mexico Correctional Facility,1,-106.9473865,32.2493475
+505,New Mexico,NM,Springer Correctional Center,1,-104.5952668,36.36114450000001
+506,New Mexico,NM,Northwest New Mexico Correctional Facility,1,-107.8171777,35.1405513
+507,New Mexico,NM,Western New Mexico Correctional Facility,1,-107.7980993,35.180697
+508,New York,NY,Adirondack Correctional Facility,1,-74.0059728,40.7127753
+509,New York,NY,Albion Correctional Facility,1,-74.0059728,40.7127753
+510,New York,NY,Altona Correctional Facility,1,-73.6556985,44.8883722
+511,New York,NY,Attica Correctional Facility,1,-78.2757215,42.8493767
+512,New York,NY,Auburn Correctional Facility,1,-76.57216729999999,42.9353094
+513,New York,NY,Bare Hill Correctional Facility,1,-74.0059728,40.7127753
+514,New York,NY,Bedford Hills Correctional Facility,1,-73.6787423,41.2416574
+515,New York,NY,Cape Vincent Correctional Facility,1,-76.1883616,44.19764379999999
+516,New York,NY,Cayuga Correctional Facility,1,-76.3961932,42.7218024
+517,New York,NY,Clinton Correctional Facility,1,-73.6005824,44.7904203
+518,New York,NY,Collins Correctional Facility,1,-78.8620736,42.4957331
+519,New York,NY,Coxsackie Correctional Facility,1,-73.8029028,42.3509179
+520,New York,NY,Eastern Correctional Facility,1,-74.3630544,41.7413126
+521,New York,NY,Edgecombe Residential Treatment Facility,1,-73.9381405,40.8362963
+522,New York,NY,Elmira Correctional Facility,1,-76.80461939999999,42.0912025
+523,New York,NY,Fishkill Correctional Facility,1,-73.9508676,41.5219948
+524,New York,NY,Five Points Correctional Facility,1,-74.0059728,40.7127753
+525,New York,NY,Franklin Correctional Facility,1,-74.0059728,40.7127753
+526,New York,NY,Gouverneur Correctional Facility,1,-75.462993,44.33672809999999
+527,New York,NY,Green Haven Correctional Facility,1,-74.0059728,40.7127753
+528,New York,NY,Greene Correctional Facility,1,-74.0059728,40.7127753
+529,New York,NY,Groveland Correctional Facility,1,-77.8337165,42.6832991
+530,New York,NY,Hale Creek Correctional Facility,1,-74.0059728,40.7127753
+531,New York,NY,Hudson Correctional Facility,1,-74.1063126,40.7268886
+532,New York,NY,Lakeview Shock Incarceration Correctional Facility,1,-74.0059728,40.7127753
+533,New York,NY,Marcy Correctional Facility,1,-75.3079037,43.160718
+534,New York,NY,Mid-State Correctional Facility,1,-74.0059728,40.7127753
+535,New York,NY,Mohawk Correctional Facility,1,-74.0059728,40.7127753
+536,New York,NY,Orleans Correctional Facility,1,-74.0059728,40.7127753
+537,New York,NY,Otisville Correctional Facility,1,-74.5349659,41.4837906
+538,New York,NY,Queensboro Correctional Facility,1,-73.9341677,40.7426566
+539,New York,NY,Riverview Correctional Facility,1,-74.0059728,40.7127753
+540,New York,NY,Shawangunk Correctional Facility,1,-74.1635513,41.6356411
+541,New York,NY,Sing Sing Correctional Facility,1,-73.8679897,41.1511759
+542,New York,NY,Taconic Correctional Facility,1,-73.6787423,41.2416574
+543,New York,NY,Ulster Correctional Facility,1,-74.3564256,41.7435804
+544,New York,NY,Upstate Correctional Facility,1,-73.7485195,42.66968199999999
+545,New York,NY,Wallkill Correctional Facility,1,-74.163444,41.6281345
+546,New York,NY,Washington Correctional Facility,1,-74.0059728,40.7127753
+547,New York,NY,Wende Correctional Facility,1,-74.0059728,40.7127753
+548,New York,NY,Woodbourne Correctional Facility,1,-74.5932576,41.75407209999999
+549,New York,NY,Wyoming Correctional Facility,1,-74.0059728,40.7127753
+550,North Carolina,NC,Columbus Correctional Institution,1,-78.72031,34.27945
+551,North Carolina,NC,Davidson Correctional Center,1,-80.2311391,35.8153772
+552,North Carolina,NC,Forsyth Correctional Center,1,-80.2621319,36.1443056
+553,North Carolina,NC,Hoke Correctional Institution,1,-79.3412791,35.0520132
+554,North Carolina,NC,Lanesboro Correctional Institution,1,-80.1831089,34.9837255
+555,North Carolina,NC,Lumberton Correctional Institution,1,-79.0546749,34.588657
+556,North Carolina,NC,New Hanover Correctional Center,1,-77.9237064,34.2662046
+557,North Carolina,NC,Pender Correctional Center,1,-77.8367282,34.5170729
+558,North Carolina,NC,Piedmont Correctional Institution,1,-80.54585639999999,35.6218404
+559,North Carolina,NC,Randolph Correctional Center,1,-79.8296743,35.7449531
+560,North Carolina,NC,Richmond Correctional Institution,1,-79.6073375,35.0222611
+561,North Carolina,NC,Sampson Correctional Institution,1,-78.3842227,34.9197548
+562,North Carolina,NC,Scotland Correctional Institution,1,-79.3642259,34.8115651
+563,North Carolina,NC,Southern Correctional Institution,1,-79.8736335,35.378298
+564,North Carolina,NC,Tabor Correctional Institution,1,-78.9140396,34.1868286
+565,North Carolina,NC,Bertie Correctional Institution,1,-76.9090118,35.9713058
+566,North Carolina,NC,Carteret Correctional Center,1,-76.8456897,34.781335
+567,North Carolina,NC,Craven Correctional Institution,1,-77.1200094,35.3168989
+568,North Carolina,NC,Eastern Correctional Institution,1,-79.01929969999999,35.7595731
+569,North Carolina,NC,Greene Correctional Institution,1,-77.5971503,35.4782615
+570,North Carolina,NC,Hyde Correctional Institution,1,-76.334196,35.494182
+571,North Carolina,NC,Maury Correctional Institution,1,-77.60701379999999,35.447173
+572,North Carolina,NC,Odom Correctional Institution,1,-77.71386439999999,35.3576622
+573,North Carolina,NC,Pamlico Correctional Institution,1,-76.7711075,35.1601467
+574,North Carolina,NC,Pasquotank Correctional Institution,1,-76.317414,36.2927068
+575,North Carolina,NC,Roanoke River Correctional Institution,1,-77.4540572,36.3019851
+576,North Carolina,NC,Tyrrell Prison Work Farm,1,-76.2287061,35.9581337
+577,North Carolina,NC,Albemarle Correctional Institution,1,-80.1360475,35.4164692
+578,North Carolina,NC,Alexander Correctional Institution,1,-81.1759189,35.8835465
+579,North Carolina,NC,Avery Mitchell Correctional Institution,1,-82.00199599999999,35.9260694
+580,North Carolina,NC,Brown Creek Correctional Institution,1,-80.17916509999999,34.988896
+581,North Carolina,NC,Caldwell Correctional Center,1,-81.52258429999999,35.8549411
+582,North Carolina,NC,Catawba Correctional Center,1,-81.20862679999999,35.6163542
+583,North Carolina,NC,Craggy Correctional Center,1,-82.6156263,35.6630693
+584,North Carolina,NC,Foothills Correctional Institution,1,-81.69134729999999,35.6804487
+585,North Carolina,NC,Gaston Correctional Center,1,-81.1870849,35.2621735
+586,North Carolina,NC,Lincoln Correctional Center,1,-81.2360096,35.4839536
+587,North Carolina,NC,Marion Correctional Institution,1,-82.00927449999999,35.6840131
+588,North Carolina,NC,Mountain View Correctional Institution,1,-82.0019349,35.9310378
+589,North Carolina,NC,Rutherford Correctional Center,1,-81.909826,35.4258737
+590,North Carolina,NC,Western Correctional Center for Women,1,-79.01929969999999,35.7595731
+591,North Carolina,NC,Wilkes Correctional Center,1,-81.2518833,36.202858
+592,North Carolina,NC,Caswell Correctional Center,1,-79.3421182,36.4188256
+593,North Carolina,NC,Central Prison,1,-78.6554932,35.7775454
+594,North Carolina,NC,Dan River Prison Work Farm,1,-79.3469698,36.4326322
+595,North Carolina,NC,Franklin Correctional Center,1,-78.2485696,35.9454471
+596,North Carolina,NC,Granville Correctional Institution,1,-78.7858972,36.1366591
+597,North Carolina,NC,Harnett Correctional Institution,1,-78.801092,35.389394
+598,North Carolina,NC,Johnston Correctional Institution,1,-78.3284242,35.5570879
+599,North Carolina,NC,Nash Correctional Institution,1,-78.0173187,35.96865080000001
+600,North Carolina,NC,Neuse Correctional Institution,1,-78.0383202,35.3866285
+601,North Carolina,NC,North Carolina Correctional Institution for Women,1,-78.6228237,35.7650991
+602,North Carolina,NC,Orange Correctional Center,1,-79.10157219999999,36.052898
+603,North Carolina,NC,Sanford Correctional Center,1,-79.159464,35.472979
+604,North Carolina,NC,Wake Correctional Center,1,-78.6171662,35.7652526
+605,North Carolina,NC,Warren Correctional Institution,1,-79.01929969999999,35.7595731
+606,North Dakota,ND,James River Correctional Center ,1,-101.0020119,47.5514926
+607,North Dakota,ND,Missouri River Correctional Center ,1,-101.299594,47.1163849
+608,North Dakota,ND,North Dakota State Penitentiary,1,-100.7440178,46.8003212
+609,North Dakota,ND,Dakota Women's Correctional Rehab Center,1,-101.0020119,47.5514926
+610,Ohio,OH,Allen Correctional Institution,1,-84.1086705,40.7736684
+611,Ohio,OH,Belmont Correctional Institution,1,-80.9708954,40.0809036
+612,Ohio,OH,Chillicothe Correctional Institution,1,-83.0045669,39.3706632
+613,Ohio,OH,Correctional Reception Center,1,-83.1484503,39.8015468
+614,Ohio,OH,Dayton Correctional Institution,1,-84.260635,39.73021070000001
+615,Ohio,OH,Franklin Medical Center,1,-83.0148401,39.9205688
+616,Ohio,OH,Grafton Correctional Institution,1,-82.0281217,41.2789787
+617,Ohio,OH,Lake Erie Correctional Institution,1,-80.5373458,41.9440689
+618,Ohio,OH,Lebanon Correctional Institution,1,-84.2988531,39.4339311
+619,Ohio,OH,London Correctional Institution,1,-83.483612,39.9052581
+620,Ohio,OH,Lorain Correctional Institution,1,-82.0191062,41.2824929
+621,Ohio,OH,Madison Correctional Institution,1,-83.4697494,39.9097849
+622,Ohio,OH,Mansfield Correctional Institution,1,-82.5116918,40.7915224
+623,Ohio,OH,Marion Correctional Institution,1,-83.10605629999999,40.6187076
+624,Ohio,OH,Noble Correctional Institution,1,-81.5511652,39.74228979999999
+625,Ohio,OH,North Central Correctional Complex,1,-83.11491749999999,40.6167336
+626,Ohio,OH,Northeast Ohio Correctional Center,1,-80.6318757,41.1311866
+627,Ohio,OH,Northeast Reintegration Center,1,-81.6677442,41.4890251
+628,Ohio,OH,Ohio Reformatory for Women,1,-83.39322159999999,40.2242327
+629,Ohio,OH,Ohio State Penitentiary,1,-80.5701097,41.1150581
+630,Ohio,OH,Pickaway Correctional Institution,1,-83.1558321,39.7986983
+631,Ohio,OH,Richland Correctional Institution,1,-82.5011233,40.7854393
+632,Ohio,OH,Ross Correctional Institution,1,-83.0080262,39.3753543
+633,Ohio,OH,Southeastern Correctional Institution,1,-82.6241823,39.6412301
+634,Ohio,OH,Southern Ohio Correctional Facility,1,-82.97022659999999,38.8745707
+635,Ohio,OH,Toledo Correctional Institution,1,-83.5118547,41.6802647
+636,Ohio,OH,Trumbull Correctional Institution,1,-80.8861136,41.2313318
+637,Ohio,OH,Warren Correctional Institution,1,-84.3153088,39.4400096
+638,Oklahoma,OK,Charles E. Johnson Correctional Center,1,-98.6325644,36.80500869999999
+639,Oklahoma,OK,Dick Conner Correctional Center,1,-97.092877,35.0077519
+640,Oklahoma,OK,Dr. Eddie Warrior Correctional Center ,1,-95.5436477,35.7667922
+641,Oklahoma,OK,Howard McLeod Correctional Center,1,-97.092877,35.0077519
+642,Oklahoma,OK,Jackie Brannon Correctional Center,1,-95.7827832,34.9435568
+643,Oklahoma,OK,James Crabtree Correctional Center,1,-98.2769369,36.5456681
+644,Oklahoma,OK,Jess Dunn Correctional Center ,1,-95.55514559999999,35.7549155
+645,Oklahoma,OK,Jim E. Hamilton Correctional Center ,1,-94.6369503,34.749383
+646,Oklahoma,OK,John Lilley Correctional Center ,1,-97.092877,35.0077519
+647,Oklahoma,OK,Joseph Harp Correctional Center,1,-97.2033326,35.030862
+648,Oklahoma,OK,Lexington Assessment and Reception Center,1,-97.2196239,35.0164658
+649,Oklahoma,OK,Mabel Bassett Correctional Center,1,-97.13122659999999,35.44485969999999
+650,Oklahoma,OK,Mack Alford Correctional Center,1,-96.03514179999999,34.5253752
+651,Oklahoma,OK,North Fork Correctional Facility ,1,-99.6130676,35.2926902
+652,Oklahoma,OK,Northeast Oklahoma Correctional Center,1,-95.1242687,36.6593172
+653,Oklahoma,OK,North Fork Correctional Center,1,-99.6130676,35.2926902
+654,Oklahoma,OK,Oklahoma State Penitentiary,1,-95.7825084,34.952923
+655,Oklahoma,OK,William S. Key Correctional Center,1,-99.55572459999999,36.57170410000001
+656,Oklahoma,OK,Clara Waters Community Corrections Center,1,-97.44889099999999,35.5716553
+657,Oklahoma,OK,Enid Community Corrections Center,1,-97.8480196,36.3956379
+658,Oklahoma,OK,Lawton Community Corrections Center,1,-98.39642579999999,34.5655578
+659,Oklahoma,OK,Oklahoma City Community Corrections Center,1,-97.519539,35.4688692
+660,Oklahoma,OK,Union City Community Corrections Center,1,-97.9361052,35.4002935
+661,Oregon,OR,"Coffee Creek Correctional Facility, Wilsonville ",1,-122.7899479,45.3412581
+662,Oregon,OR,"Columbia River Correctional Institution, Portland ",1,-122.6368837,45.5891201
+663,Oregon,OR,"Deer Ridge Correctional Institution, Madras ",1,-121.052728,44.6368596
+664,Oregon,OR,"Eastern Oregon Correctional Institution, Pendleton ",1,-118.8171394,45.67212610000001
+665,Oregon,OR,"Mill Creek Correctional Facility, Salem",1,-122.9740044,44.8754685
+666,Oregon,OR,"Oregon State Correctional Institution, Salem",1,-122.9487206,44.8973399
+667,Oregon,OR,"Oregon State Penitentiary, Salem",1,-123.0073097,44.9320905
+668,Oregon,OR,"Powder River Correctional Facility, Baker City ",1,-117.8437656,44.7916382
+669,Oregon,OR,"Santiam Correctional Institution, Salem",1,-122.9616428,44.8916846
+670,Oregon,OR,"Shutter Creek Correctional Institution, North Bend",1,-124.1759268,43.5338532
+671,Oregon,OR,"South Fork Forest Camp, Tillamook",1,-123.4640504,45.5893658
+672,Oregon,OR,"Snake River Correctional Institution, Ontario",1,-117.0629293,44.0788844
+673,Oregon,OR,"Two Rivers Correctional Institution, Umatilla ",1,-119.260887,45.92303159999999
+674,Oregon,OR,"Warner Creek Correctional Facility, Lakeview",1,-120.3783569,42.2450981
+675,Pennsylvania,PA,State Correctional Institution – Cambridge Springs,1,-80.05397789999999,41.7972122
+676,Pennsylvania,PA,State Correctional Institution – Muncy,1,-76.8254935,41.2025199
+677,Pennsylvania,PA,State Correctional Institution – Laurel Highlands,1,-79.0431589,40.0035547
+678,Pennsylvania,PA,State Correctional Institution – Mercer,1,-80.2203923,41.2070367
+679,Pennsylvania,PA,Motivational Bootcamp – Quehanna,1,-78.1444576,41.1854643
+680,Pennsylvania,PA,State Correctional Institution – Waymart,1,-75.4291995,41.5740281
+681,Pennsylvania,PA,State Correctional Institution – Albion,1,-80.3658763,41.8772525
+682,Pennsylvania,PA,State Correctional Institution – Benner Township,1,-77.7780752,40.8592307
+683,Pennsylvania,PA,State Correctional Institution – Coal Township,1,-76.5552235,40.806485
+684,Pennsylvania,PA,State Correctional Institution – Chester,1,-75.3516276,39.8512493
+685,Pennsylvania,PA,State Correctional Institution – Dallas,1,-76.0097163,41.273859
+686,Pennsylvania,PA,State Correctional Institution – Houtzdale,1,-78.35639239999999,40.8122215
+687,Pennsylvania,PA,State Correctional Institution – Mahanoy,1,-76.1779966,40.7912294
+688,Pennsylvania,PA,State Correctional Institution – Rockview,1,-77.7762949,40.8499
+689,Pennsylvania,PA,State Correctional Institution – Somerset,1,-79.0431589,40.0035547
+690,Pennsylvania,PA,State Correctional Institution – Camp Hill,1,-76.92653899999999,40.215886
+691,Pennsylvania,PA,State Correctional Institution – Huntingdon,1,-78.0277236,40.4917021
+692,Pennsylvania,PA,State Correctional Institution – Smithfield,1,-80.1383972,39.9046584
+693,Pennsylvania,PA,State Correctional Institution – Fayette,1,-79.9881499,40.00038230000001
+694,Pennsylvania,PA,State Correctional Institution – Forest,1,-79.1008918,41.4820964
+695,Pennsylvania,PA,State Correctional Institution – Frackville,1,-76.2082638,40.7711373
+696,Pennsylvania,PA,State Correctional Institution – Phoenix,1,-75.421379,40.2283897
+697,Pennsylvania,PA,State Correctional Institution – Greene,1,-80.13842559999999,39.9046307
+698,Rhode Island,RI,Anthony P. Travisono Intake Service Center,1,-71.46388689999999,41.7487813
+699,Rhode Island,RI,High Security Center (inmate capacity 138),1,-71.46184939999999,41.749379
+700,Rhode Island,RI,Rhode Island Maximum Security Prison,1,-71.455893,41.746611
+701,Rhode Island,RI,John J. Moran Medium Security Facility,1,-71.46825199999999,41.7417279
+702,Rhode Island,RI,Gloria McDonald Maximum and Medium Security Facility,1,-71.46825199999999,41.7417279
+703,South Carolina,SC,Allendale Correctional Institution,1,-81.269021,32.9682678
+704,South Carolina,SC,Broad River Correctional Institution,1,-81.0969014,34.0729797
+705,South Carolina,SC,Broad River Secure Facility,1,-81.19666341006162,34.13560579886563
+706,South Carolina,SC,Camille Griffin Graham Correctional Institution,1,-81.1042563,34.0756166
+707,South Carolina,SC,Evans Correctional Institution,1,-79.7126646,34.6530501
+708,South Carolina,SC,Goodman Correctional Institution ,1,-81.11676299999999,34.0691385
+709,South Carolina,SC,Kershaw Correctional Institution,1,-80.5489884,34.5957509
+710,South Carolina,SC,Kirkland Correctional Institution,1,-81.0986381,34.0709501
+711,South Carolina,SC,Leath Correctional Institution,1,-82.14400289999999,34.2532637
+712,South Carolina,SC,Lee Correctional Institution,1,-80.2260938,34.1989591
+713,South Carolina,SC,Lieber Correctional Institution,1,-80.29068099999999,33.0858296
+714,South Carolina,SC,Livesay Correctional Institution ,1,-81.9865894,34.9776685
+715,South Carolina,SC,MacDougall Correctional Institution,1,-80.2954177,33.1685905
+716,South Carolina,SC,Manning Correctional Institution ,1,-80.98962949999999,34.080501
+717,South Carolina,SC,McCormick Correctional Institution,1,-82.24979859999999,33.9285474
+718,South Carolina,SC,Palmer Pre-Release Center,1,-81.1637245,33.836081
+719,South Carolina,SC,Perry Correctional Institution,1,-81.31193789999999,33.6268478
+720,South Carolina,SC,Ridgeland Correctional Institution,1,-80.96760809999999,32.4947407
+721,South Carolina,SC,Trenton Correctional Institution,1,-81.8418188,33.7143267
+722,South Carolina,SC,Turbeville Correctional Institution,1,-80.0819925,33.887179
+723,South Carolina,SC,Tyger River Correctional Institution,1,-81.82621759999999,34.7135581
+724,South Carolina,SC,Walden Correctional Institution ,1,-81.11589719999999,34.0684215
+725,South Carolina,SC,Wateree River Correctional Institution ,1,-80.5692428,34.0885809
+726,South Dakota,SD,Mike Durfee State Prison Springfield,1,-97.8997193,42.8609476
+727,South Dakota,SD,South Dakota State Penitentiary Sioux Falls,1,-96.7249956,43.5667657
+728,South Dakota,SD,South Dakota Women's Prison in Pierre ,1,-100.3082027,44.3578376
+729,South Dakota,SD,Rapid City Minimum Center Rapid City,1,-103.1876654,44.0584207
+730,South Dakota,SD,Yankton Minimum Center Yankton,1,-97.39728129999999,42.87110879999999
+731,Tennessee,TN,Bledsoe County Correctional Complex,1,-85.25233519999999,35.7452936
+732,Tennessee,TN,Lois M. DeBerry Special Needs Facility,1,-86.9053881,36.1918486
+733,Tennessee,TN,Morgan County Correctional Complex,1,-84.5388412,36.1104583
+734,Tennessee,TN,Northeast Correctional Complex,1,-81.8853735,36.4477193
+735,Tennessee,TN,Carter County Annex,1,-82.1062159,36.2113088
+736,Tennessee,TN,Northwest Correctional Complex,1,-89.4533356,36.4154562
+737,Tennessee,TN,Riverbend Maximum Security Institution,1,-86.9018394,36.1854601
+738,Tennessee,TN,Turney Center Industrial Complex,1,-87.6878606,35.8317666
+739,Tennessee,TN,Turney Center Annex,1,-87.9911339,35.3707447
+740,Tennessee,TN,West Tennessee State Penitentiary,1,-89.7469953,35.6711396
+741,Texas,TX,Eastham Unit,1,-101.8806177,33.57085
+742,Texas,TX,Ellis Unit,1,-95.45522790000001,30.88494009999999
+743,Texas,TX,W.J. Estelle Unit,1,-99.9018131,31.9685988
+744,Texas,TX,Ferguson Unit,1,-95.7046901,30.9581999
+745,Texas,TX,Thomas Goree Unit,1,-95.5158622,30.67399679999999
+746,Texas,TX,Huntsville Unit – Texas State Penitentiary at Huntsville,1,-95.5465364,30.7217818
+747,Texas,TX,Gib Lewis Unit,1,-94.3976533,30.7960044
+748,Texas,TX,Allan B. Polunsky Unit,1,-95.0147286,30.6984603
+749,Texas,TX,Wynne Unit,1,-95.5764671,30.7404707
+750,Texas,TX,George Beto Unit,1,-95.8231687,31.7547889
+751,Texas,TX,William R. Boyd Unit,1,-96.19956429999999,31.6717321
+752,Texas,TX,Coffield Unit,1,-95.8933227,31.7902763
+753,Texas,TX,Mark W. Michael Unit,1,-95.9032419,31.79414299999999
+754,Texas,TX,Louie C. Powledge Unit,1,-95.80287369999999,31.7342262
+755,Texas,TX,Barry Telford Unit,1,-94.4780006,33.4224812
+756,Texas,TX,Clemens Unit,1,-95.5181374,28.9904831
+757,Texas,TX,Darrington Unit,1,-95.4898681,29.4003524
+758,Texas,TX,L.V. Hightower Unit,1,-94.93288419999999,30.1025028
+759,Texas,TX,Jester III Unit (formerly Harlem III),1,-73.9464769,40.8115504
+760,Texas,TX,Ramsey Unit (formerly W. F. Ramsey I Unit),1,-96.40135649999999,29.6538478
+761,Texas,TX,Mark W. Stiles Unit,1,-94.0524485,29.9882945
+762,Texas,TX,Richard P. LeBlanc Unit,1,-99.9018131,31.9685988
+763,Texas,TX,Stringfellow Unit (formerly W. F. Ramsey II Unit),1,-95.5467978,29.285969
+764,Texas,TX,Terrell Unit (formerly W. F. Ramsey III Unit),1,-95.5366839,29.29875359999999
+765,Texas,TX,Carol Vance Unit (formerly Harlem II and Jester II),1,-99.9018131,31.9685988
+766,Texas,TX,Dolph Briscoe Unit,1,-99.19022249999999,28.661475
+767,Texas,TX,John B. Connally Unit,1,-97.83556800000001,28.774441
+768,Texas,TX,James Lynaugh Unit,1,-103.0513076,30.7880802
+769,Texas,TX,William G. McConnell Unit,1,-97.7194203,28.372978
+770,Texas,TX,Clarence N. Stevenson Unit,1,-97.2977848,29.1335439
+771,Texas,TX,Ruben M. Torres Unit,1,-99.19819799999999,29.3507444
+772,Texas,TX,James V. Allred Unit,1,-98.5951858,33.9745196
+773,Texas,TX,"William P. ""Bill"" Clements Unit",1,-99.9018131,31.9685988
+774,Texas,TX,Dalhart Unit,1,-102.5618252,36.02365959999999
+775,Texas,TX,Price Daniel Unit,1,-100.8174847,32.7206416
+776,Texas,TX,Rufe Jordan Unit,1,-100.8876001,35.5668709
+777,Texas,TX,Nathaniel J. Neal Unit,1,-101.7358297,35.2392822
+778,Texas,TX,"T.L. Roach, Jr. Unit ",1,-100.2750884,34.4301205
+779,Texas,TX,Preston E. Smith Unit,1,-101.9111312,32.7266408
+780,Texas,TX,Daniel Webster Wallace Unit,1,-100.8802294,32.4001066
+781,Texas,TX,Crain Unit (Formerly the Gatesville Unit),1,-97.7389354,31.4720943
+782,Texas,TX,Hilltop Unit,1,-97.7350927,31.4767101
+783,Texas,TX,William P. Hobby Unit ,1,-96.91028539999999,31.2537933
+784,Texas,TX,Alfred D. Hughes Unit,1,-97.70430879999999,31.4874179
+785,Texas,TX,O.L. Luther Unit,1,-96.0581742,30.2637624
+786,Texas,TX,Bartlett State Jail,1,-97.44276599999999,30.794482
+787,Texas,TX,Mountain View Unit,1,-97.72926810000001,31.4855155
+788,Texas,TX,Dr. Lane Murray Unit,1,-97.72844150000002,31.477928
+789,Texas,TX,Wallace Pack Unit,1,-96.10614520000001,30.3244896
+790,Texas,TX,French M. Robertson Unit,1,-99.63294979999999,32.5586
+791,Utah,UT,"Central Utah Correctional Facility, Gunnison",1,-111.8104276,39.1656841
+792,Utah,UT,"Utah State Correctional Facility, Salt Lake City",1,-112.0901632,40.8015661
+793,Vermont,VT,Northern State Correctional Facility,1,-72.191236,44.9067579
+794,Vermont,VT,Chittenden Regional Correctional Facility,1,-72.9962431,44.3959289
+795,Vermont,VT,Marble Valley Regional Correctional Facility,1,-72.99069639999999,43.6092883
+796,Vermont,VT,Northeast Regional Correctional Facility,1,-72.57784149999999,44.5588028
+797,Vermont,VT,Northwest State Correctional Facility,1,-73.1328391,44.8500659
+798,Vermont,VT,Southern State Correctional Facility,1,-72.438374,43.26875
+799,Virginia,VA,Augusta Correctional Center,1,-79.3676011,38.0612932
+800,Virginia,VA,Appalachian Detention Center,1,-82.78220379999999,36.9056476
+801,Virginia,VA,Baskerville Correctional Center,1,-78.3016312,36.7224434
+802,Virginia,VA,Bland Correctional Center,1,-80.88909749999999,37.1703737
+803,Virginia,VA,Brunswick Work Center,1,-77.82188049999999,36.7766559
+804,Virginia,VA,Buckingham Correctional Center,1,-78.4741592,37.5651283
+805,Virginia,VA,Caroline Correctional Unit,1,-77.3317957,37.8328174
+806,Virginia,VA,Central Virginia Correctional Unit #13,1,-78.6568942,37.4315734
+807,Virginia,VA,Coffeewood Correctional Center,1,-78.0192266,38.3651188
+808,Virginia,VA,Cold Springs Correctional Unit #10,1,-79.1513822,37.9917441
+809,Virginia,VA,Culpeper Correctional Facility for Women,1,-77.9961177,38.4733465
+810,Virginia,VA,Deep Meadow Correctional Center,1,-77.84979899999999,37.6221513
+811,Virginia,VA,Deerfield Correctional Center,1,-77.2447433,36.7282943
+812,Virginia,VA,Dillwyn Correctional Center,1,-78.4710652,37.5728476
+813,Virginia,VA,Fluvanna Correctional Center for Women,1,-78.27008359999999,37.9845093
+814,Virginia,VA,Green Rock Correctional Center,1,-79.4215445,36.7998152
+815,Virginia,VA,Greensville Correctional Center,1,-77.4828343,36.7968128
+816,Virginia,VA,Halifax Correctional Unit,1,-78.9315032,36.7278785
+817,Virginia,VA,Haynesville Correctional Center,1,-76.66909729999999,37.9554201
+818,Virginia,VA,Haynesville Correctional Unit #17,1,-76.66245649999999,37.9501331
+819,Virginia,VA,Indian Creek Correctional Center,1,-76.1806259,36.6157913
+820,Virginia,VA,James River Correctional Center,1,-77.82189919999999,37.6482438
+821,Virginia,VA,Keen Mountain Correctional Center,1,-81.9791376,37.2237862
+822,Virginia,VA,Lawrenceville Correctional Center,1,-77.81352989999999,36.7810478
+823,Virginia,VA,Lunenburg Correctional Center,1,-78.2104385,37.0164978
+824,Virginia,VA,Marion Correctional Treatment Center,1,-81.50923689999999,36.8313953
+825,Virginia,VA,Mecklenburg Correctional Center,1,-78.6568942,37.4315734
+826,Virginia,VA,Nottoway Correctional Center,1,-78.1759321,37.1816808
+827,Virginia,VA,Patrick Henry Correctional Unit,1,-80.40900440000001,37.2533296
+828,Virginia,VA,Pocahontas State Correctional Center,1,-81.3633718,37.2970633
+829,Virginia,VA,Powhatan Correctional Center,1,-77.835292,37.626628
+830,Virginia,VA,Red Onion State Prison,1,-82.54850950000001,37.1112169
+831,Virginia,VA,River North Correctional Center,1,-81.1251601,36.6148814
+832,Virginia,VA,Rustburg Correctional Unit,1,-79.10085430000001,37.2768113
+833,Virginia,VA,St. Brides Correctional Center,1,-76.1836685,36.6115529
+834,Virginia,VA,Sussex I State Prison,1,-77.2001037,37.0448913
+835,Virginia,VA,Sussex II State Prison,1,-77.2052032,37.05107539999999
+836,Virginia,VA,Virginia Correctional Center for Women,1,-77.8894916,37.674593
+837,Virginia,VA,Wallens Ridge State Prison,1,-82.7855316,36.842868
+838,Virginia,VA,Wise Correctional Unit,1,-82.4624851,36.9164069
+839,Washington,WA,Airway Heights Corrections Center (AHCC),1,-117.5760521,47.65723939999999
+840,Washington,WA,Cedar Creek Corrections Center (CCCC),1,-123.1421631,46.8841325
+841,Washington,WA,Clallam Bay Corrections Center (CBCC),1,-124.2880537,48.24018119999999
+842,Washington,WA,Coyote Ridge Corrections Center (CRCC),1,-118.852175,46.680059
+843,Washington,WA,Mission Creek Corrections Center for Women (MCCCW),1,-122.864238,47.4846492
+844,Washington,WA,Monroe Correctional Complex (MCC),1,-121.9993473,47.8449162
+845,Washington,WA,Olympic Corrections Center (OCC),1,-124.1363372,47.7186317
+846,Washington,WA,Stafford Creek Corrections Center (SCCC),1,-123.9209148,46.9247034
+847,Washington,WA,Washington Corrections Center (WCC),1,-123.1904845,47.2418851
+848,Washington,WA,Washington Corrections Center for Women (WCCW),1,-122.6124267,47.3466186
+849,Washington,WA,Washington State Penitentiary (WSP),1,-118.356724,46.077943
+850,West Virginia,WV,Anthony Correctional Center,1,-80.12721169999999,37.963208
+851,West Virginia,WV,Beckley Correctional Center,1,-81.1652615,37.7851673
+852,West Virginia,WV,Charleston Correctional Center,1,-81.6198745,38.34802
+853,West Virginia,WV,Parkersburg Correctional Center and Wood County Holding Center,1,-81.5607464,39.2642138
+854,West Virginia,WV,Denmar Correctional Center,1,-80.2215015,38.0867277
+855,West Virginia,WV,Huttonsville Correctional Center/Huttonsville Work Camp,1,-79.9797358,38.6945161
+856,West Virginia,WV,Lakin Correctional Center,1,-82.0845528,38.9515808
+857,West Virginia,WV,Martinsburg Correctional Center,1,-77.9562053,39.435799
+858,West Virginia,WV,Mount Olive Correctional Complex/Slayton Work Camp,1,-81.2334436,38.2378833
+859,West Virginia,WV,Northern Correctional Facility,1,-80.7281592,39.9104965
+860,West Virginia,WV,Ohio County Correctional Center,1,-80.610489,40.1111311
+861,West Virginia,WV,Pruntytown Correctional Center,1,-80.073775,39.3296769
+862,West Virginia,WV,St. Marys Correctional Center,1,-81.1696075,39.4311202
+863,West Virginia,WV,Salem Correctional Center,1,-80.5783707,39.2822293
+864,West Virginia,WV,Stevens Correctional Center/McDowell County Corrections,1,-81.56808319999999,37.4313161
+865,Wisconsin,WI,Chippewa Valley Correctional Treatment Facility (formerly Highview),1,-91.3499772,44.928746
+866,Wisconsin,WI,Columbia Correctional Institution,1,-89.4921787,43.565525
+867,Wisconsin,WI,Dodge Correctional Institution,1,-88.73969029999999,43.6242095
+868,Wisconsin,WI,Fox Lake Correctional Institution,1,-88.9130011,43.6149518
+869,Wisconsin,WI,Green Bay Correctional Institution,1,-88.0132958,44.5133188
+870,Wisconsin,WI,Jackson Correctional Institution,1,-90.7892206,44.3083371
+871,Wisconsin,WI,Kettle Moraine Correctional Institution,1,-88.1491317,43.72350309999999
+872,Wisconsin,WI,Milwaukee Secure Detention Facility ,1,-87.9246495,43.0434105
+873,Wisconsin,WI,New Lisbon Correctional Institution ,1,-90.13177499999999,43.8811854
+874,Wisconsin,WI,Oakhill Correctional Institution,1,-89.3946216,42.961263
+875,Wisconsin,WI,Oshkosh Correctional Institution,1,-88.5615462,44.0692813
+876,Wisconsin,WI,Prairie du Chien Correctional Institution,1,-91.1410106,43.0342492
+877,Wisconsin,WI,Racine Correctional Institution ,1,-87.90394669999999,42.7087936
+878,Wisconsin,WI,Racine Youthful Offender Correctional Facility,1,-87.7993116,42.7369827
+879,Wisconsin,WI,Redgranite Correctional Institution,1,-89.1075754,44.0537864
+880,Wisconsin,WI,Stanley Correctional Institution ,1,-90.95181769999999,44.9478946
+881,Wisconsin,WI,Sturtevant Transitional Facility ,1,-87.8987349,42.71312590000001
+882,Wisconsin,WI,Taycheedah Correctional Institution,1,-88.3883666,43.7982215
+883,Wisconsin,WI,Waupun Correctional Institution,1,-88.73158889999999,43.6296869
+884,Wisconsin,WI,Wisconsin Secure Program Facility,1,-90.68297299999999,43.1432007
+885,Wyoming,WY,Wyoming State Penitentiary (Rawlins),1,-107.2158143,41.765267
+886,Wyoming,WY,Wyoming Women's Center (Lusk),1,-104.4670873,42.7678191
+887,Wyoming,WY,Wyoming Honor Farm (Riverton),1,-108.3718248,43.0559809
+888,Wyoming,WY,Wyoming Honor Conservation Camp & Boot Camp (Newcastle),1,-104.1867793,43.8802668
+889,Wyoming,WY,Wyoming Medium Correctional Institution (Torrington),1,-104.11901,42.0723701
